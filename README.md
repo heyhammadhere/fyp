@@ -1,21 +1,28 @@
 # Meet The Algorithms
-
 This Application Supports The Following Algorithms:
 
-**Dijkstra's Algorithm** (Weighted): The Father Of Pathfinding Algorithms; Guarantees The Shortest Path..
+## Dijkstra's Algorithm (Weighted)
+The Father Of Pathfinding Algorithms; Guarantees The Shortest Path..
 
-**A* Search** (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
+## A* Search Algorithm (Weighted):
+Arguably The Best Pathfinding Algorithm; Uses Heuristics To Guarantee The Shortest Path.. Much Faster Than Dijkstra's Algorithm..
 
-**Greedy Best-first Search** (weighted): a faster, more heuristic-heavy version of A*; does not guarantee the shortest path
+## Greedy Best-First Search Algorithm (Weighted)
+A Faster, More Heuristic-Heavy Version Of A*; Does Not Guarantee The Shortest Path..
 
-**Swarm Algorithm** (weighted): a mixture of Dijkstra's Algorithm and A*; does not guarantee the shortest-path
+## Swarm Algorithm (Weighted)
+A Mixture Of Dijkstra's Algorithm & A*; Does Not Guarantee The Shortest Path..
 
-**Convergent Swarm Algorithm** (weighted): the faster, more heuristic-heavy version of Swarm; does not guarantee the shortest path
+## Convergent Swarm Algorithm (Weighted)
+The Fastest, More Heuristic-Heavy Version Of Swarm; Does Not Guarantee The Shortest Path..
 
-**Bidirectional Swarm Algorithm** (weighted): Swarm from both sides; does not guarantee the shortest path
+## Bidirectional Swarm Algorithm (Weighted)
+Swarm From Both Sides; Does Not Guarantee The Shortest Path..
 
-**Breath-first Search** (unweighted): a great algorithm; guarantees the shortest path
+## Breath-First Search Algorithm (Unweighted)
+A Great Algorithm; Guarantees The Shortest Path..
 
-**Depth-first Search** (unweighted): a very bad algorithm for pathfinding; does not guarantee the shortest path
+## Depth-First Search Algorithm (Unweighted)
+A Very Bad Algorithm For Pathfinding; Does Not Guarantee The Shortest Path..
 
-On top of the pathfinding algorithms listed above, I implemented a **Recursive Division** Maze Generation algorithm.
+On Top Of The Pathfinding Algorithms Listed Above, I Implemented A **Recursive Division** Maze Generation Algorithm..
