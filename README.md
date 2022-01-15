@@ -1,8 +1,8 @@
-## Meet the Algorithms
+# Meet The Algorithms
 
-This application supports the following algorithms: 
+This Application Supports The Following Algorithms:
 
-**Dijkstra's Algorithm** (weighted): the father of pathfinding algorithms; guarantees the shortest path
+**Dijkstra's Algorithm** (Weighted): The Father Of Pathfinding Algorithms; Guarantees The Shortest Path..
 
 **A* Search** (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
 
