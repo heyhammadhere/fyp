@@ -25,4 +25,5 @@ A Great Algorithm; Guarantees The Shortest Path..
 ## Depth-First Search Algorithm (Unweighted)
 A Very Bad Algorithm For Pathfinding; Does Not Guarantee The Shortest Path..
 
+---
 On Top Of The Pathfinding Algorithms Listed Above, I Implemented A **Recursive Division** Maze Generation Algorithm..
