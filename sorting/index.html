@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <script defer src="script.js"></script>
+    <title>Sorting</title>
+  </head>
+
+  <body>
+    <main>
+      <div>
+        <strong>
+          <p>
+            Click Generate Button To Generate A Random List With 50 Elements
+          </p></strong
+        >
+        <p>
+          <strong style="color: #fff; background-color: #001f42">Blue</strong>
+          Bars Indicate Unsorted Elements
+        </p>
+        <p>
+          <strong style="color: #fff; background-color: #00704f"> Green</strong>
+          Bars Indicate Sorted Elements
+        </p>
+        <p>
+          <strong style="color: #fff; background-color: #ef2d56"> Red</strong>
+          Bar Indicate Active Element For Comparison
+        </p>
+        <p>
+          <strong style="color: #001f42; background-color: yellow">
+            Yellow</strong
+          >
+          Bar Indicate Element To Compare With Active Element
+        </p>
+      </div>
+    </main>
+    <footer>
+      <button id="instructions">Instructions</button>
+      <button id="generate">Generate</button>
+      <button id="bubbleSort">Bubble Sort</button>
+      <button id="insertionSort" style="display: none">Insertion Sort</button>
+      <button id="selectionSort">Selection Sort</button>
+      <button id="quickSort" style="display: none">Quick Sort</button>
+      <label for="speed">Fast</label>
+      <input id="speed" type="range" min="0" max="500" value="0" />
+      <label for="speed">Slow</label>
+    </footer>
+  </body>
+</html>
